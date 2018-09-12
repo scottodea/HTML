@@ -1,0 +1,181 @@
+body {
+    background-image: url(http://avante.biz/wp-content/uploads/Zen-Wallpaper/Zen-Wallpaper-021.jpg);
+    color: #0f2a36;
+    font-family: 'Open Sans', Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.25em;
+    background-size: cover
+}
+.intro header{
+    background-color:#D2EBED;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black, 2px 2px 2px black, 2px 2px 2px black;
+   -webkit-text-stroke-width: 0.2px;
+   -webkit-text-stroke-color: black;
+   box-shadow: 2px 2px 2px black, 2px 2px 2px black;
+   padding: 8px;
+   margin: 5%;
+   text-align: center
+}
+
+.summary{
+    background-color:#D2EBED;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black, 2px 2px 2px black, 2px 2px 2px black;
+   -webkit-text-stroke-width: 0.2px;
+   -webkit-text-stroke-color: black;
+   box-shadow: 2px 2px 2px black, 2px 2px 2px black;
+   padding: 8px;
+   margin: 5%;
+}
+.explanation{
+    background-color: #D2EBED;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black, 2px 2px 2px black, 2px 2px 2px black;
+   -webkit-text-stroke-width: 0.2px;
+   -webkit-text-stroke-color: black;
+   box-shadow: 2px 2px 2px black, 2px 2px 2px black;
+   padding: 8px;
+   margin: 5%;
+}
+.participation{
+    background-color: #D2EBED;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black, 2px 2px 2px black, 2px 2px 2px black;
+   -webkit-text-stroke-width: 0.2px;
+   -webkit-text-stroke-color: black;
+   box-shadow: 2px 2px 2px black, 2px 2px 2px black;
+   padding: 8px;
+   margin: 5%;
+}
+a{
+    color:white
+}
+.preamble{
+    background-color: #D2EBED;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black, 2px 2px 2px black, 2px 2px 2px black;
+   -webkit-text-stroke-width: 0.2px;
+   -webkit-text-stroke-color: black;
+   box-shadow: 2px 2px 2px black, 2px 2px 2px black;
+   padding: 8px;
+   margin: 5%;
+}
+
+.zen-resources{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black, 2px 2px 2px black, 2px 2px 2px black;
+}
+.design-selection{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black, 2px 2px 2px black, 2px 2px 2px black;
+}
+.design-archives{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black, 2px 2px 2px black, 2px 2px 2px black;
+}
+.requirements{
+    background-color: #D2EBED;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black, 2px 2px 2px black, 2px 2px 2px black;
+   -webkit-text-stroke-width: 0.2px;
+   -webkit-text-stroke-color: black;
+   box-shadow: 2px 2px 2px black, 2px 2px 2px black;
+   padding: 8px;
+   margin: 5%;
+   
+}
+.benefits{
+    background-color:#D2EBED;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black, 2px 2px 2px black, 2px 2px 2px black;
+   -webkit-text-stroke-width: 0.2px;
+   -webkit-text-stroke-color: black;
+   box-shadow: 2px 2px 2px black, 2px 2px 2px black;
+   padding: 8px;
+   margin: 5%;
+}
+aside .wrapper:after {
+    clear: both;
+    content: " ";
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+    width: 0;
+}
+aside .wrapper {
+    background:#D2EBED;
+    border-top: 10px solid black;
+    margin: -5px auto 0;
+    max-width: 1040px;
+    padding: 40px 0 30px 0;
+    position: relative;
+    width: 100%;
+    z-index: 2;
+    animation: pulse 10s infinite;
+    animation-direction: alternate
+}
+
+@keyframes pulse {
+    0% {
+      background-color: rgb(255, 255, 255);
+    }
+    20% {
+      background-color: rgb(252, 14, 14);
+    }
+    30% {
+        background-color: orange
+    }
+    40% {
+        background-color:rgb(245, 220, 0)
+    }
+    50%{
+        background-color: green
+    }
+    60% {
+        background-color: blue
+    }
+    70% {
+        background-color:purple
+    }
+    80% {
+        background-color: black
+    }
+
+    }
+
+
+
+@media (max-width: 1040px)
+aside .wrapper {
+    padding: 40px 5% 30px;
+    width: 90%;
+}
+aside .wrapper .design-selection {
+    border-right: 10px solid black;
+    float: left;
+    margin-right: 40px;
+    width: 50%;
+}
